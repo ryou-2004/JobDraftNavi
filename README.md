@@ -26,11 +26,19 @@ MySqlに手を出したが、実装できなかった点。
 コピペではなく、リファレンスを読み少しは理解して書いたライブラリ
 
 上下のタブや画面遷移
+
 @react-navigation/material-top-tabs
+
 @react-navigation/bottom-tabs
+
 @react-navigation/native
+
 @react-navigation/stack
+
 検索画面、ライン登録画面などのポップ表示
+
 react-native-modal
+
 画像のスライド
+
 react-native-swiper
