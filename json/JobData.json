@@ -1,0 +1,24 @@
+{
+  "jinjibu": {
+    "companyImageURI": "https://jinjibstorage.blob.core.windows.net/job-draft/uploads/job/thumbnail/859/thumbnail.jpg",
+    "companyTitleData": "高卒就活の常識を共に変えよう！！「ジンジブ」ではあなたのすべてが武器になる。",
+    "companyNameData": "株式会社ジンジブ",
+    "prefecturesData": "港区,大阪市中央区,福岡市博多区,名古屋市中区",
+    "salaryData": [
+      {"title": "企画・営業(法人)", "salary": 20.8},
+      {"title": "その他福祉・教育関係", "salary": 20.8},
+      {"title": "編集・ライター", "salary": 20.8}
+    ],
+    "conditionData": [
+      "年間休日120日",
+      "紹介動画あり",
+      "高卒先輩社員が活躍",
+      "若手社員活躍",
+      "メディア掲載実績あり",
+      "教育・研修充実",
+      "完全週休二日",
+      "年末年始休暇あり",
+      "GW休み"
+    ]
+  }
+}

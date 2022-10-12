@@ -1,0 +1,145 @@
+{
+  "data": {
+    "content1": {
+      "school": false,
+      "direct": false,
+      "contentList": [
+        {
+          "title": "人気の特徴",
+          "isSubTitle": false,
+          "list": [
+            {
+              "subTitle": "",
+              "texts": [
+                {"title": "紹介動画あり", "check": false},
+                {"title": "高卒先輩社員が活躍", "check": false},
+                {"title": "交通費全額支給", "check": false},
+                {"title": "賞与(ボーナス)支給", "check": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "勤務の特徴",
+          "isSubTitle": true,
+          "list": [
+            {
+              "subTitle": "休みの特徴",
+              "texts": [
+                {"title": "土日祝休み", "check": false},
+                {"title": "年間休日120日以上", "check": false},
+                {"title": "完全週休二日", "check": false},
+                {"title": "平日休み", "check": false},
+                {"title": "GW休暇", "check": false},
+                {"title": "年末年始休暇あり", "check": false}
+              ]
+            },
+            {
+              "subTitle": "会社の特徴",
+              "texts": [
+                {"title": "創業50年以上", "check": false},
+                {"title": "上場企業", "check": false},
+                {"title": "成長企業", "check": false},
+                {"title": "メディア掲載実績あり", "check": false},
+                {"title": "若手社員活躍", "check": false},
+                {"title": "従業員30名以下", "check": false},
+                {"title": "教育・研修充実", "check": false}
+              ]
+            },
+            {
+              "subTitle": "雰囲気の特徴",
+              "texts": [
+                {"title": "アットホームな社風", "check": false},
+                {"title": "にぎやかな現場", "check": false},
+                {"title": "同年代が多い", "check": false},
+                {"title": "男性が多い職場", "check": false},
+                {"title": "女性が多い職場", "check": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "働き方の特徴",
+          "isSubTitle": true,
+          "list": [
+            {
+              "subTitle": "仕事の特徴",
+              "texts": [
+                {"title": "定時退社", "check": false},
+                {"title": "転勤なし", "check": false},
+                {"title": "残業時間少なめ(月平均20時間以内)", "check": false},
+                {"title": "コツコツ・黙々", "check": false},
+                {"title": "高収入", "check": false}
+              ]
+            },
+            {
+              "subTitle": "通勤スタイルは？",
+              "texts": [
+                {"title": "マイカー通勤OK", "check": false},
+                {"title": "自転車通勤OK", "check": false},
+                {"title": "バイク通勤OK", "check": false}
+              ]
+            },
+            {
+              "subTitle": "服装の特徴",
+              "texts": [
+                {"title": "服装・髪型自由", "check": false},
+                {"title": "ネイル・アクセサリーOK", "check": false},
+                {"title": "制服あり", "check": false},
+                {"title": "スーツ着用", "check": false}
+              ]
+            },
+            {
+              "subTitle": "待遇の特徴",
+              "texts": [
+                {"title": "クラブサークル活動あり", "check": false},
+                {"title": "社員旅行あり", "check": false},
+                {"title": "寮・宿舎あり", "check": false},
+                {"title": "資格取得支援あり", "check": false},
+                {"title": "育休該当者実績あり", "check": false},
+                {"title": "家賃補助あり", "check": false},
+                {"title": "託児所あり", "check": false},
+                {"title": "食事補助・まかない付き", "check": false},
+                {"title": "社員割引あり", "check": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "歓迎",
+          "isSubTitle": false,
+          "list": [
+            {
+              "subTitle": "",
+              "texts": [
+                {"title": "外国人学生歓迎", "check": false},
+                {"title": "障がい者手帳所有者OK", "check": false},
+                {"title": "LGBT歓迎", "check": false},
+                {"title": "ハンディキャップある子もOK", "check": false},
+                {"title": "職場見学歓迎", "check": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "就職試験の特徴",
+          "isSubTitle": false,
+          "list": [
+            {
+              "subTitle": "",
+              "texts": [
+                {"title": "先行旅費あり", "check": false},
+                {"title": "面接試験のみ", "check": false},
+                {"title": "面接1回", "check": false},
+                {"title": "筆記試験あり", "check": false},
+                {"title": "成績不問", "check": false},
+                {"title": "欠席日数関係なし", "check": false},
+                {"title": "オンライン職場見学", "check": false}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
